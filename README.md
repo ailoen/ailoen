@@ -1,9 +1,13 @@
 <h1>CEO & Software Engineer</h1>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ailoen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/ailoen?trk=profile-badge">Ole Nils Ailo Siri</a></div>
-
 <h3>Connect with me:</h3>
-<a href="https://twitter.com/ailosiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ailoen" height="30" width="40" /></a>
+<a href="https://twitter.com/ailosiri" target="blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/ailoen/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg">
+</a>
 
 <h3>Frontend</h3>
 
