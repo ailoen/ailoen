@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/ailoen/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg" width="10%" height="10%">
 </a>
 
 <h3>Frontend</h3>
