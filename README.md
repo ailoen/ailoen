@@ -92,7 +92,4 @@
   </i>
 </p>
 
-
-<h2>My statistics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=ailoen&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailoen&count_private=true" alt="ailoen" />
