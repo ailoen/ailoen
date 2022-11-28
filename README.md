@@ -1,5 +1,17 @@
 <h1>CEO at Norwegian Tech company</h1>
-<p><b><i>Software Engineering is much more than just being able to understand a programming language. You have to have many skills that makes you valuable for a tech company. A software developers must hold many types of skills to be valuable for a company, but most of these skills can be trained and improved.</i></b></p>
+<p><b><i>Working as the Chief Technology Officer, Chief Information Officer and serving as one of the most promising Chief Executive Officer at the same time, acquiring excellent developer skills being practiced and honed on a daily basis as a habit making sure that I go along with the trends in terms of technology and even in the business world.</i></b></p>
+
+<p><b><i>Being a leader in accomplishing  various projects in the field for two decades in a row made me work comfortably in both small and large groups of people under any circumstances. A proof that experience is the best teacher pushing me to do even more better and be one of those best of the bests in the world. The remarkable experiences I gained led me to pour out every ounce of passion in me to train developers to the core.</i></b></p>
+
+<p>Here are the services I rendered for reference:</p>
+<ol>
+<li>Entrepreneurship and business management</li>
+<li>Software project management</li>
+<li>Software and System Engineer</li>
+<li>Graphic Designer and brand developer</li>
+<li>IT Consultant</li>
+<li>Network Administrator</li>
+</ol>
 
 <h2>Connect with me:</h2>
 <a href="https://twitter.com/ailosiri" target="_blank">
