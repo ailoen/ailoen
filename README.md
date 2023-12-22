@@ -1,16 +1,17 @@
-<h1>CEO at Norwegian Tech company</h1>
-<p><b><i>Working as the Chief Technology Officer, Chief Information Officer and serving as one of the most promising Chief Executive Officer at the same time, acquiring excellent developer skills being practiced and honed on a daily basis as a habit making sure that I go along with the trends in terms of technology and even in the business world.</i></b></p>
+<h1>Tech Savvy Norwegian</h1>
+<p>As the Chief Executive Officer of a leading technology firm, I am committed to staying at the forefront of technological and business trends, continually honing my skills and knowledge. This pursuit of excellence is more than just a professional obligation; it's a personal passion that I practice daily.</p>
 
-<p><b><i>Being a leader in accomplishing  various projects in the field for two decades in a row made me work comfortably in both small and large groups of people under any circumstances. A proof that experience is the best teacher pushing me to do even more better and be one of those best of the bests in the world. The remarkable experiences I gained led me to pour out every ounce of passion in me to train developers to the core.</i></b></p>
+<p>My journey over the past two decades in the tech industry has been marked by significant achievements and learning experiences. I've led a variety of projects, adapting seamlessly to both small and large team dynamics, and thriving in diverse environments. This extensive experience has reinforced my belief in the power of experiential learning and has driven me to become one of the foremost leaders in the tech world. My passion for the field extends to nurturing and mentoring developers, guiding them to realize their full potential.</p>
 
-<p>Here are the services I rendered for reference:</p>
+<p>In my role, I specialize in a wide array of services, including:</p>
+
 <ol>
-<li>Entrepreneurship and business management</li>
-<li>Software project management</li>
-<li>Software and System Engineer</li>
-<li>Graphic Designer and brand developer</li>
-<li>IT Consultant</li>
-<li>Network Administrator</li>
+<li>Entrepreneurship and Business Management</li>
+<li>Software Project Management</li>
+<li>Software and Systems Engineering</li>
+<li>Graphic Design and Brand Development</li>
+<li>IT Consultancy</li>
+<li>Network Administration</li>
 </ol>
 
 <h2>Connect with me:</h2>
